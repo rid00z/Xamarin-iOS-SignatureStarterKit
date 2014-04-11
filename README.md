@@ -6,7 +6,7 @@ It’s a bit more than just a view that captures a signature as in addition to c
 
 Here’s some screenshots.
 
-Initial Display of PDF
+### Initial Display of PDF
 
 ![alt text](http://www.michaelridland.com/wp-content/uploads/2014/04/xamarin-signatureview-1-200x300.png "")
 
